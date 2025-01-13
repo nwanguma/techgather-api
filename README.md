@@ -84,6 +84,8 @@ A live demo is available at [TechGather](https://www.loom.com/share/9e345ca37407
    ```bash
    npm run test:watch
    ```
+8. Connect to frontend (optional):
+   The frontend lives here [Techgather-frontend](https://github.com/nwanguma/techgather-frontend). Please follow instructions in the readme to connect and run the app end-to-end
 
 ---
 
